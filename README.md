@@ -21,7 +21,7 @@ The analysis covers:
 - Shipping type vs. average spend
 - Top-rated products by review score
 - Customer segmentation (New / Returning / Loyal)
-
+<img width="2657" height="1373" alt="Customer Shopping Behavior Analysis" src="https://github.com/user-attachments/assets/4b27d64a-80b3-41b0-8bc4-0ab86e0d916f" />
 ---
 
 ## 📊 Key Metrics
@@ -174,9 +174,6 @@ The interactive dashboard includes:
 - **Shipping Type vs Avg Spend** — Comparative bar chart
 
 **Interactive Filters:** Gender · Category · Season · Subscription Status
-<img width="2657" height="1373" alt="Customer Shopping Behavior Analysis" src="https://github.com/user-attachments/assets/4b27d64a-80b3-41b0-8bc4-0ab86e0d916f" />
-
-
 
 
 ---
