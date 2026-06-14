@@ -63,10 +63,10 @@ customer-shopping-behavior-analysis/
 │   └── business_queries.sql              # 10 SQL business questions
 │
 ├── dashboard/
-│   └── Customer_Shopping_Dashboard.pbix  # Power BI dashboard file
-│
+│└── Customer_Shopping_Dashboard.pbix  # Power BI dashboard file
+│└── dashboard.pdf                     # Power BI dashboard screenshot                    
 ├── report/
-│   └── Customer_Shopping_Behavior_Report.docx  # Stakeholder report
+│   └── Customer_Shopping_Behavior_Report.pdf  # Stakeholder report
 │
 └── README.md
 ```
