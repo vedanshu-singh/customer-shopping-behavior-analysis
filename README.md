@@ -174,7 +174,9 @@ The interactive dashboard includes:
 - **Shipping Type vs Avg Spend** — Comparative bar chart
 
 **Interactive Filters:** Gender · Category · Season · Subscription Status
-![Project Screenshot](https://github.com/vedanshu-singh/customer-shopping-behavior-analysis/blob/main/dashboard/dashboard.pdf)
+<img width="765" height="391" alt="Screenshot 2026-06-14 235131" src="https://github.com/user-attachments/assets/b9492f16-374b-4ac7-b242-70f9791b07a4" />
+
+
 
 ---
 
