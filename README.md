@@ -1,6 +1,6 @@
 # 🛒 Customer Shopping Behavior Analysis
 
-> An end-to-end data analytics project exploring purchasing trends, customer segmentation, product performance, and revenue drivers across 3,900 retail transactions.
+> An end-to-end data analytics project exploring purchasing trends, product performance, customer segmentation and revenue drivers across 3,900 retail transactions.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -16,11 +16,11 @@ Retail organizations collect vast volumes of transaction data, but deriving stra
 
 The analysis covers:
 - Revenue breakdown by category, gender, and age group
-- Customer segmentation (New / Returning / Loyal)
 - Subscription vs. non-subscription spending patterns
 - Discount dependency by product
 - Shipping type vs. average spend
 - Top-rated products by review score
+- Customer segmentation (New / Returning / Loyal)
 
 ---
 
@@ -42,8 +42,8 @@ The analysis covers:
 - 🏆 **Clothing** is the top revenue category — generating **~$104K (45%)** of total revenue
 - 👨 **Male customers** contribute **~68%** of total revenue
 - 🎯 **Young Adults** are the highest-value demographic at **$62.14K** in total revenue
-- 🔁 **Loyal customers** (10+ purchases) represent the largest segment — **~2,300 customers**
 - 📉 Only **27% of customers** are subscribers, despite comparable spending to non-subscribers
+- Loyal customers (10+ purchases) represent the largest segment — ~3,116 customers
 - 🚀 Customers using **premium shipping** (2-Day, Express) tend to spend more per transaction
 
 ---
@@ -169,12 +169,12 @@ The interactive dashboard includes:
 - **Revenue by Category** — Bar chart comparing all 4 categories
 - **Revenue by Gender** — Donut chart with percentage split
 - **Revenue by Age Group** — Horizontal bar chart across 4 demographic segments
-- **Customer Segmentation** — New / Returning / Loyal breakdown
 - **Subscription Status** — Donut showing 27% subscriber rate
 - **Shipping Type vs Avg Spend** — Comparative bar chart
 
 **Interactive Filters:** Gender · Category · Season · Subscription Status
-<img width="765" height="391" alt="Screenshot 2026-06-14 235131" src="https://github.com/user-attachments/assets/b9492f16-374b-4ac7-b242-70f9791b07a4" />
+<img width="2657" height="1373" alt="Customer Shopping Behavior Analysis" src="https://github.com/user-attachments/assets/4b27d64a-80b3-41b0-8bc4-0ab86e0d916f" />
+
 
 
 
