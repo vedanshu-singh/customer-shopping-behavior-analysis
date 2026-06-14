@@ -64,7 +64,8 @@ customer-shopping-behavior-analysis/
 │
 ├── dashboard/
 │└── Customer_Shopping_Dashboard.pbix  # Power BI dashboard file
-│└── dashboard.pdf                     # Power BI dashboard screenshot                    
+│└── dashboard.pdf                     # Power BI dashboard screenshot
+│                  
 ├── report/
 │   └── Customer_Shopping_Behavior_Report.pdf  # Stakeholder report
 │
